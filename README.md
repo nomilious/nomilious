@@ -1,5 +1,42 @@
-# nomilious
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47ymj3lp4fw8ggxtho5o68so2v2j2wjyz0gopmy16q&rid=200w.webp&ct=g" width="1500"/>
-</div>
+header>
+  <a href="#" id="logo">Logo</a>
+</header>
 
+<section id="hero1" class="hero">
+  <div class="inner">
+    <div class="copy">
+    <h1>Choice mountains bro</h1>
+    <p>Its like im actually there! But sitting at a computer. Wow, the future is intense!</p>
+    </div>
+  </div>
+</section>
+
+<section class="content">
+  <div class="inner">
+    <div class="copy">
+    <h1>Amazing copy!</h1>
+    <p>The words are like jumping out at me man! </p>
+    </div>
+  </div>
+</section>
+
+<section id="hero2" class="hero">
+  <div class="inner">
+    <div class="copy">
+    <h1>Dem some big ass caves</h1>
+    <p>You could probably fit in there ;)</p>
+    </div>
+  </div>
+</section>
+  
+<section class="content">
+  <div class="inner">
+    <div class="copy">
+    <h1>An inspiring quote</h1>
+      <p>/-- file not found --/</p>
+    </div>
+  </div>
+</section>
+
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
