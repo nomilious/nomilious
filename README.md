@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+Cumputer+science+student.)](https://git.io/typing-svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomilious&theme=solarized_dark)
 
 <div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomilious&theme=solarized_dark)
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nomilious&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
